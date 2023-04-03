@@ -31,7 +31,7 @@
         "@types/is-uuid": "1.0.0",
         "hook-std": "2.0.0",
         "is-uuid": "1.0.2",
-        "node-fetch": "2.6.7",
+        "node-fetch": "2.6.9",
         "nyc": "15.1.0"
     },
     "devDependencies": {
@@ -44,7 +44,7 @@
         "@semantic-release/npm": "10.0.2",
         "@semantic-release/release-notes-generator": "10.0.3",
         "@types/node": "18.15.11",
-        "@types/node-fetch": "2.6.2",
+        "@types/node-fetch": "2.6.3",
         "@types/sinon": "10.0.13",
         "@types/tape": "4.13.2",
         "nock": "13.2.9",
